@@ -34,11 +34,11 @@ This project helps manage books efficiently using core Python concepts like list
 2. Clone or download this repository  
 3. Open terminal in project folder  
 4. Run the program:
-
 ```bash
 python main.py
-💡 How It Works
 
+
+💡 How It Works
 Each book is stored as a dictionary:
 
 {
@@ -49,8 +49,9 @@ Each book is stored as a dictionary:
 }
 
 All books are stored in a list:
-
 books = []
+
+
 📸 Example Output
 ==============================
  Library Management System
@@ -62,24 +63,24 @@ books = []
 5. Return Book
 6. Remove Book
 7. Exit
+
+
 🎯 Learning Objectives
-
 This project helps in understanding:
-
-Python functions
-Loops and conditionals
-Lists and dictionaries
-Input validation
-Basic problem solving
-Menu-driven programs
+- Python functions
+- Loops and conditionals
+- Lists and dictionaries
+- Input validation
+- Basic problem solving
+- Menu-driven programs
 
 
 🔥 Future Improvements
-File handling (save data permanently)
-User login system (Admin/Student)
-Due date & fine system
-GUI version using Tkinter
-Database integration (SQLite/MySQL)
+- File handling (save data permanently)
+- User login system (Admin/Student)
+- Due date & fine system
+- GUI version using Tkinter
+- Database integration (SQLite/MySQL)
 
 
 👨‍💻 Author
